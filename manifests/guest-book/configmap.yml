@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: guest-book
 data:
-  ui_properties_file_name: "bala-interface.properties"
+  ui_properties_file_name: "bala12345-interface.properties"
